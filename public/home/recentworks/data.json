@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "name": "BERPENGALAMAN",
+        "image": "images/berpengalaman1.jpg",
+        "url": "#",
+        "items": []
+    },
+    {
+        "id": 1,
+        "name": "DIPERCAYA KLIEN",
+        "image": "images/dipercaya.jpg",
+        "url": "#",
+        "items": []
+    },
+    {
+        "id": 2,
+        "name": "GARANSI PASTI BERES",
+        "image": "images/garansi.jpg",
+        "url": "#",
+        "items": []
+    },
+    {
+        "id": 3,
+        "name": "TERENCANA & STRATEGIS",
+        "image": "images/terencana.jpg",
+        "url": "#",
+        "items": []
+    }
+]
